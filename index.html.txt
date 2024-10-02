@@ -1,0 +1,22 @@
+index.html
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<!--this is shown here as title for the web page-->
+<title>My first web page</title>
+<meta name="description" content="My first web page was made with love in BAA1017">
+</head>
+
+<body>
+
+<h1>heading 1</h1>
+<p>add a short paragraph</P>
+
+<blockquote>
+text goes here
+<blockquote</>
+</body>
+
+<html>
